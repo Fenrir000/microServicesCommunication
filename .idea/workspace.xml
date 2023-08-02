@@ -4,14 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4abbe13f-70c5-46aa-a278-9548058ebe94" name="Changes" comment="" />
+    <list default="true" id="4abbe13f-70c5-46aa-a278-9548058ebe94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoService/src/main/java/com/example/mongoservice/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/dto/InventoryResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discoveryServer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discoveryServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discoveryServer/src/main/java/com/example/discoveryserver/DiscoveryServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discoveryServer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/dto/InventoryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MongoService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MongoService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MongoService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MongoService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/PostgresServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/PostgresServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/model/OrderItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/model/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresService/src/main/java/com/example/postgresservice/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostgresService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PostgresService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/InventoryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/InventoryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/repository/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryService/src/main/java/com/example/inventoryservice/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventoryService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventoryService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -27,12 +65,127 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/microService/microService/discoveryService/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "6913fffa3def36380894a03553765d7b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\microService\microService\discoveryService\src\main\resources" />
+      <recent name="D:\microService\microService\inventoryService" />
+      <recent name="D:\microService\microService\PostgresService" />
+      <recent name="D:\microService\microService\MongoService" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.postgresservice.dto" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.InventoryServiceApplication">
+    <configuration name="DiscoveryServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="discoveryServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.discoveryserver.DiscoveryServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.discoveryserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="discoveryService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.discoveryserver.DiscoveryServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.discoveryserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="inventoryService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.inventoryservice.InventoryServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.inventoryservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MongoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MongoService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mongoservice.MongoServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mongoservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostgresServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="PostgresService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.postgresservice.PostgresServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.postgresservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DiscoveryServerApplication" />
+      <item itemvalue="Spring Boot.DiscoveryServerApplication (1)" />
+      <item itemvalue="Spring Boot.InventoryServiceApplication" />
+      <item itemvalue="Spring Boot.MongoServiceApplication" />
+      <item itemvalue="Spring Boot.PostgresServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DiscoveryServerApplication (1)" />
+        <item itemvalue="Spring Boot.InventoryServiceApplication" />
+        <item itemvalue="Spring Boot.PostgresServiceApplication" />
+        <item itemvalue="Spring Boot.MongoServiceApplication" />
+        <item itemvalue="Spring Boot.DiscoveryServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +194,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690891203260</updated>
+      <workItem from="1690891204442" duration="7805000" />
+      <workItem from="1690971376205" duration="9602000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
